@@ -1,0 +1,5 @@
+{
+  "name": "IME Harmony Tracker",
+  "description": "A professional facial aesthetic neuromodulation assessment tool based on the Muscular Equilibrium Index (IME) framework.",
+  "requestFramePermissions": ["camera"]
+}
